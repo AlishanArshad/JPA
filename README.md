@@ -28,7 +28,7 @@ A full-stack web application for managing bookstore inventory built with Spring 
 
 The Book Management System is a comprehensive solution for bookstore inventory management, providing RESTful APIs for complete CRUD operations. The application features a modern, responsive frontend with real-time search capabilities and a robust Spring Boot backend with JPA/Hibernate for data persistence.
 
-**Live Demo:** https://jpa-production.up.railway.app/
+**Live Demo:** https://jpa-12ds.onrender.com/
 
 ## Features
 
